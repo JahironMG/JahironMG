@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://cdn.pixabay.com/photo/2016/04/15/08/53/windmill-1330517_1280.jpg)">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="[[YOUR-DARKMODE-IMAGE](https://cdn.pixabay.com/photo/2016/04/15/08/53/windmill-1330517_1280.jpg)](https://th.bing.com/th/id/R.0adcd6d009b03054e96f2bdde3bc0690?rik=YBcHGsgFbh0wWw&riu=http%3a%2f%2fwww.foroambiental.com.mx%2fwp-content%2fuploads%2f2020%2f05%2fOCIFDH0-1024x683.jpg&ehk=uBhQF5rwUKyQqNGQ3x7xsxVhdeeSU3s9mCX7jOyazvU%3d&risl=&pid=ImgRaw&r=0)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://th.bing.com/th/id/R.0adcd6d009b03054e96f2bdde3bc0690?rik=YBcHGsgFbh0wWw&riu=http%3a%2f%2fwww.foroambiental.com.mx%2fwp-content%2fuploads%2f2020%2f05%2fOCIFDH0-1024x683.jpg&ehk=uBhQF5rwUKyQqNGQ3x7xsxVhdeeSU3s9mCX7jOyazvU%3d&risl=&pid=ImgRaw&r=0)">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
