@@ -1,5 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercave.com/wp/wp3082334.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)
+">
  <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/wp/wp3082334.jpg">
  <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://wallpapercave.com/wp/wp3082334.jpg)">
 </picture>
@@ -7,10 +8,6 @@
 
 ### Hi there 👋
 
-<!--
-**JahironMG/JahironMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on new wxpweiwance
 - 🌱 I’m currently learning ...
@@ -20,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
