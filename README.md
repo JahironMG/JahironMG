@@ -16,5 +16,6 @@
 - 🌍 Coffe i smy life
 
 
-  > [!IMPORTANT]
+----
+> [!IMPORTANT]
 > Suggestions are always welcome.
