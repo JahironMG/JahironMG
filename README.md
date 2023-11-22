@@ -1,8 +1,8 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)
+ <source media="(prefers-color-scheme: dark)" srcset="![imagen de portada](https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)
 ">
- <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/wp/wp3082334.jpg">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://wallpapercave.com/wp/wp3082334.jpg)">
+ <source media="(prefers-color-scheme: light)" srcset="![imagen de portada](https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)">
+ <img alt="YOUR-ALT-TEXT" src="![imagen de portada](https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)">
 </picture>
 
 
