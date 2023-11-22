@@ -1,8 +1,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="!(https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)
 ">
- <source media="(prefers-color-scheme: light)" srcset="![imagen de portada](https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)">
- <img alt="YOUR-ALT-TEXT" src="![imagen de portada](https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)">
+ <source media="(prefers-color-scheme: light)" srcset="(https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b)">
+ <img alt="YOUR-ALT-TEXT" src="![imagen de portada]https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b">
 </picture>
 
 
