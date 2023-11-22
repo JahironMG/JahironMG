@@ -10,11 +10,11 @@
 
 
 - 🔭 Commited to learn through practice
-- 🌱 Currently learning about renwable energy and data aplications on it :earth_africa:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+- 🌱 Currently learning about renwable energy and data aplications on it 🌍
+- 🤔 I’m looking for help with OPP
+- 📫 Reach me at: jahiron_m.g@hotmail.com
+- 🌍 Coffe i smy life
+
+
+  > [!IMPORTANT]
+> Suggestions are always welcome.
