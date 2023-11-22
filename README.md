@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://wallpapercave.com/wp/wp3082334.jpg)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercave.com/wp/wp3082334.jpg">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://wallpapercave.com/wp/wp3082334.jpg)">
  <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://wallpapercave.com/wp/wp3082334.jpg)">
 </picture>
