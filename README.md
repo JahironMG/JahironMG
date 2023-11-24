@@ -9,11 +9,11 @@
 ----
 
 
-- 🔭 Commited to learn through practice
-- 🌱 Currently learning about renwable energy and data aplications on it 🌍
-- 🔍 I’m looking for help with OPP
+- 🔭 Commited to learn through practice.
+- 🌱 Currently learning about renewable energy and data aplications on it. 🌍
+- 🔍 I’m looking for help with OPP.
 - 📨 Reach me at: jahiron_m.g@hotmail.com
-- ☕ Coffe i smy life
+- ☕ Coffe is my life!
 
 
 ----
