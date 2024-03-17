@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Wallpapers/9.jpg">
  <source media="(prefers-color-scheme: light)" srcset="Wallpapers/9.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/JahironMG/JahironMG/assets/110778060/59bee66c-0eb3-4c5b-b4a6-013b7ba4ba9b">
+ 
 </picture>
 
 
