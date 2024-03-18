@@ -13,7 +13,7 @@
 - 🌱 Currently learning about renewable energy and data aplications on it. 🌍
 - 🔍 I’m looking for help with OPP.
 - 📨 Reach me at: jahiron_m.g@hotmail.com
-- ☕ Coffe is my life!
+- ☕ Coffe is my fuel!
 
 
 ----
