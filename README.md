@@ -10,8 +10,8 @@
 
 
 - 🔭 Commited to learn through practice.
-- 🌱 Currently learning SAS programming and persuing a Data analitycs Tableau certification. 🌍
-- 🔍 I’m looking for help with OPP.
+- 🌱 Currently learning about data application in renewable energy industry. 🌍
+- 🔍 Linux learner.
 - 📨 Reach me at: jahiron.mateo@yahoo.com
 - ☕ Coffe is my fuel!
 
